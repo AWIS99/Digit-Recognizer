@@ -12,5 +12,5 @@ Python v3.7, tensorflow v2.1.0, OpenCV v3.4.7, keras and Numpy (one can install 
 7. You can also do the same in jupyter notebook with the ipynb files.
 ## Architecture
 ### Conv2D-(64) --> MaxPool-(2/2) --> Conv2D-(64) --> MaxPool(2/2) --> Dense-(128,relu) --> Dense-(10,softmax) --> Classification
-## Train Accuracy 99.74
-## Test Accuracy 99.11
+## Train Accuracy ~ 99.74
+## Test Accuracy ~ 99.11
